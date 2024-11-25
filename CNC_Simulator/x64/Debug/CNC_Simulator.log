@@ -1,0 +1,31 @@
+﻿   Qt/MSBuild: 3.3.0.13
+  'WHERE' is not recognized as an internal or external command,
+  operable program or batch file.
+  Reading Qt configuration (C:/Qt/Qt5.12.12/5.12.12/msvc2017_64/bin/qmake)
+   Qt: 5.12.12
+  uic CNC_Simulator.ui
+  rcc CNC_Simulator.qrc
+  moc headers\CNC_Simulator.h
+  moc headers\GraphicsSynchronizer.h
+  moc headers\OpenglWidget.h
+   RCC: Warning: No resources in 'E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\CNC_Simulator.qrc'.
+  CNC_Simulator.cpp
+  GraphicsSynchronizer.cpp
+  Intersector.cpp
+  main.cpp
+  OBJReader.cpp
+  OpenglWidget.cpp
+  PathCreator.cpp
+  Reader.cpp
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\PathCreator.cpp(125,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  STLWriter.cpp
+  Writer.cpp
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OpenglWidget.cpp(102,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OBJReader.cpp(43,58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OBJReader.cpp(44,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OBJReader.cpp(90,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  qrc_CNC_Simulator.cpp
+  moc_CNC_Simulator.cpp
+  moc_GraphicsSynchronizer.cpp
+  moc_OpenglWidget.cpp
+  CNC_Simulator.vcxproj -> E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\x64\Debug\CNC_Simulator.exe

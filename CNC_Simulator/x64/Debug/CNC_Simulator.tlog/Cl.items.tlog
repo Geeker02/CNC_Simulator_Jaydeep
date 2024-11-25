@@ -1,0 +1,14 @@
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\CNC_Simulator.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\CNC_Simulator.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\GraphicsSynchronizer.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\GraphicsSynchronizer.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\Intersector.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\Intersector.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\main.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\main.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OBJReader.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\OBJReader.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\OpenglWidget.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\OpenglWidget.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\PathCreator.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\PathCreator.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\Reader.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\Reader.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\STLWriter.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\STLWriter.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\src\Writer.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\Writer.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\qt\rcc\qrc_CNC_Simulator.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\qrc_CNC_Simulator.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\qt\moc\moc_CNC_Simulator.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\moc_CNC_Simulator.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\qt\moc\moc_GraphicsSynchronizer.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\moc_GraphicsSynchronizer.obj
+E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\qt\moc\moc_OpenglWidget.cpp;E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\CNC_Simulator\x64\Debug\moc_OpenglWidget.obj

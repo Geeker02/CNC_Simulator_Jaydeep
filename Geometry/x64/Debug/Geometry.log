@@ -1,0 +1,7 @@
+﻿  BoundingBox.cpp
+  Edge.cpp
+  Point.cpp
+  SurfacePoint.cpp
+  Triangle.cpp
+  Triangulation.cpp
+  Geometry.vcxproj -> E:\CCTech_Official-Project\CNC_Simulator-CNC_Simulator_Narayan\x64\Debug\Geometry.lib
